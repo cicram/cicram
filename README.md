@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I am Marc, a PhD Candidate in the field of Cardiovascular Engineering.
+
+Interested in automating processes, finite element simulations, and data analysis.
+
+
 <!--
 **cicram/cicram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
