@@ -1,8 +1,8 @@
-## 👋 "Hello there"
+Hello there 👋 
 
-:anatomical_heart: I am Marc, a PhD Candidate in the field of Cardiovascular Engineering.  
+I am Marc, a PhD Candidate in the field of Cardiovascular Engineering. :anatomical_heart:
 
-:computer: Interested in automating processes, finite element simulations, and data analysis.
+Interested in automating processes, finite element simulations, and data analysis. :computer: 
 
 
 <!--
